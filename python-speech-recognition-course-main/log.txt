@@ -1,0 +1,5 @@
+2022-12-13 22:28:10,239 - apscheduler.scheduler - INFO - Scheduler started
+2022-12-13 22:28:10,239 - telegram.ext._application - INFO - Application started
+2022-12-13 22:28:47,694 - root - ERROR - 1.138319969177246 wye_rock : 560714019 : FAIL UNKNOWN : Failed processing message
+2022-12-13 22:28:53,781 - root - ERROR - 0.8606610298156738 wye_rock : 560714019 : FAIL UNKNOWN : Failed processing message
+2022-12-13 22:29:18,600 - root - ERROR - 0.993396520614624 wye_rock : 560714019 : FAIL UNKNOWN : Failed processing message
